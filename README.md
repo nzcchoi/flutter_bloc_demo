@@ -1,6 +1,7 @@
-# demo_one
+# flutter_bloc_demo
 
 A new Flutter project.
+Updated using Stream BLoC pattern
 
 ## Getting Started
 
